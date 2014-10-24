@@ -1,6 +1,10 @@
 # ionic-devices.sh
 
-Shell script that creates some aliases to run ionic on various devices.
+Shell script that creates some aliases to run ionic apps on various connected devices 
+
+## Abstract
+
+I found myself keeping a collection of `ionic run` commands to quickly start my ionic apps on my connected phones/tablets while developing apps. This is why I created these aliases to start each environment without too much hassle. Any ideas or input are welcome!
 
 ## Installation
 
