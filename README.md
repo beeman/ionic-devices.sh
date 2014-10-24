@@ -46,17 +46,17 @@ or include it manually (current session only):
 
 ## Run your project
 
-After including the file in your shell you have the following commands available. The names should speak for themselves!
+After including the file in your shell you have the following commands available. The names should speak for themselves.
 
 - ionic-android
 - ionic-android-phone
-- ionic-android-table
 - ionic-android-phone-live
+- ionic-android-tablet
 - ionic-android-tablet-live
 - ionic-ios
 - ionic-ios-phone
-- ionic-ios-table
 - ionic-ios-phone-live
+- ionic-ios-tablet
 - ionic-ios-tablet-live
 - ionic-serve
 
@@ -67,4 +67,4 @@ Now go to your ionic project dir and run one of the commands. In this case it wi
 
 ## Questions of suggestions?
 
-Create an issue or contact me by e-mail!
+Create an [issue](https://github.com/beeman/ionic-devices.sh/issues/new) or contact me by e-mail!
