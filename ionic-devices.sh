@@ -43,4 +43,5 @@ else
   alias ionic-ios-tablet="ionic run ios --target=$IOS_T"
 	alias ionic-ios-tablet-live="ionic run ios --target=$IOS_T -p $IOS_T_P1 -l --livereload-port $IOS_T_P2"
 	alias ionic-serve="ionic serve"
+  alias ionic-serve-lab="ionic serve --lab"
 fi
